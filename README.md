@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Rohit Kumar Haldar 👨‍💻<br>*West Bengal, India*<br><br>Balancing engineering entrance prep with full-stack web development. I enjoy solving problems, building clean UIs, and exploring decentralized infrastructure networks.<br><br>- **Languages:** JavaScript, Python, HTML/CSS<br>- **Technologies:** Firebase, Node.js (or relevant framework), REST APIs<br>- **Interests:** Web Apps, Automation, UI/UX, Hardware Troubleshooting
+### Rohit Kumar Haldar 👨‍💻<br>*West Bengal, India*<br><br>Balancing engineering entrance prep with full-stack web development. I enjoy solving problems, building clean UIs, and exploring decentralized infrastructure networks.<br><br>- **Languages:** HTML/CSS, C++ <br>- **Technologies:** Firebase, <br>- **Interests:** Web Apps, Automation, UI/UX, Hardware Troubleshooting
 
 
 ## 🌐 Socials:
